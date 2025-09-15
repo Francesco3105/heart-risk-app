@@ -11,3 +11,5 @@ st.write(
     Usa il menu nella **sidebar** per navigare tra le pagine.
     """
 )
+from ui import render_footer
+render_footer("Francesco Mantini", "https://www.linkedin.com/in/francesco-mantini-aa8828382/", "https://github.com/Francesco3105")
